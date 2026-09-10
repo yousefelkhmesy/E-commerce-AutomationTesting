@@ -1,4 +1,4 @@
-# Automation Testing Project - E-commerce
+E-commerce Automation Testing Project
 
 This project demonstrates automated testing for an e-commerce web application using Selenium WebDriver with Java.
 
